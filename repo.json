@@ -265,6 +265,13 @@
             "preview": ""
         },
         {
+            "name": "Quiet",
+            "author": "Omniscient",
+            "description": "Dark and Quiet. Easy on the eyes.",
+            "url": "https://raw.githubusercontent.com/0mniscient/Discord-Themes/master/Themes/Quiet.theme.css",
+            "preview": ""
+        },
+        {
             "name": "Discordify",
             "author": "Nirewen",
             "description": "",
