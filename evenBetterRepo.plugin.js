@@ -33,10 +33,10 @@ evenBetterRepo.prototype.load = function(){
         this.pluginPath = process.env.HOME + "/Library/Preferences/BetterDiscord/plugins/";
     }
 
-    this.cssURL = 'https://raw.githubusercontent.com/IRDeNial/BD-Even-Better-Repo/master/ebr.css';
-    this.repoURL = 'https://raw.githubusercontent.com/IRDeNial/BD-Even-Better-Repo/master/repo.json';
-    this.pluginURL = 'https://raw.githubusercontent.com/IRDeNial/BD-Even-Better-Repo/master/evenBetterRepo.plugin.js';
-    this.versionURL = 'https://raw.githubusercontent.com/IRDeNial/BD-Even-Better-Repo/master/version';
+    this.cssURL = 'https://raw.githubusercontent.com/JourneyOver/BD-Even-Better-Repo/master/ebr.css';
+    this.repoURL = 'https://raw.githubusercontent.com/JourneyOver/BD-Even-Better-Repo/master/repo.json';
+    this.pluginURL = 'https://raw.githubusercontent.com/JourneyOver/BD-Even-Better-Repo/master/evenBetterRepo.plugin.js';
+    this.versionURL = 'https://raw.githubusercontent.com/JourneyOver/BD-Even-Better-Repo/master/version';
 
     this.ebrCSS = '';
     this.repo = '';
@@ -65,7 +65,7 @@ evenBetterRepo.prototype.load = function(){
                     if(confirm('There is an update for EvenBetterRepo.  Would you like to update now?')) {
                         require('https').get(plugin_url, function(response) {
                             var file = require('fs').createWriteStream(plugin_path + 'evenBetterRepo.plugin.js');
-                            
+
                             response.pipe(file);
                             file.on('finish', function() {
                                 file.close();
