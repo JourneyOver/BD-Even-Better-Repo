@@ -8,8 +8,8 @@ evenBetterRepo.prototype.getName = function() {
 evenBetterRepo.prototype.getDescription = function() {
   return 'Easily access theme & plugin repository from within Discord client<br><br>Want to add your plugin or theme?  Submit a request here:<br><a href="https://github.com/IRDeNial/BD-Even-Better-Repo/issues/new" target="_BLANK">https://github.com/IRDeNial/BD-Even-Better-Repo/issues/new</a>';
 };
-evenBetterRepo.prototype.getVersion = function() {
-  return '2.5.3';
+evenBetterRepo.prototype.getVersion = function(){
+    return '2.5.4';
 };
 evenBetterRepo.prototype.getAuthor = function() {
   return '<a href="https://github.com/IRDeNial" target="_BLANK">DeNial</a>';
@@ -21,17 +21,17 @@ var plugin_path;
 var ebr_changelog;
 
 // API Hooks
-evenBetterRepo.prototype.load = function() {
-  if (process.platform == "win32") {
-    this.themePath = process.env.APPDATA + "\\BetterDiscord\\themes\\";
-    this.pluginPath = process.env.APPDATA + "\\BetterDiscord\\plugins\\";
-  } else if (process.platform == "linux") {
-    this.themePath = ".config/BetterDiscord/themes/";
-    this.pluginPath = ".config/BetterDiscord/plugins/";
-  } else if (process.platform == "darwin") {
-    this.themePath = process.env.HOME + "/Library/Preferences/BetterDiscord/themes/";
-    this.pluginPath = process.env.HOME + "/Library/Preferences/BetterDiscord/plugins/";
-  }
+evenBetterRepo.prototype.load = function(){
+    if (process.platform == "win32") {
+        this.themePath = process.env.APPDATA + "\\BetterDiscord\\themes\\";
+        this.pluginPath = process.env.APPDATA + "\\BetterDiscord\\plugins\\";
+    } else if (process.platform == "linux"){
+        this.themePath= process.env.HOME + "/.config/BetterDiscord/themes/";
+        this.pluginPath= process.env.HOME + "/.config/BetterDiscord/plugins/";
+    } else if (process.platform == "darwin"){
+        this.themePath = process.env.HOME + "/Library/Preferences/BetterDiscord/themes/";
+        this.pluginPath = process.env.HOME + "/Library/Preferences/BetterDiscord/plugins/";
+    }
 
   this.cssURL = 'https://raw.githubusercontent.com/JourneyOver/BD-Even-Better-Repo/master/ebr.css';
   this.repoURL = 'https://raw.githubusercontent.com/JourneyOver/BD-Even-Better-Repo/master/repo.json';
