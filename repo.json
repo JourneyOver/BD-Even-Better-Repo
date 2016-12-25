@@ -223,6 +223,12 @@
     }
   ],
   "themes": [{
+      "name": "Kobato",
+      "author": "Syaoran3",
+      "description": "A Kobato theme made for EternalEnd",
+      "url": "https://raw.githubusercontent.com/DRedDogPE/DiscordThemes/master/Kobato/Kobato.theme.css"
+    },
+    {
       "name": "Full Dark",
       "author": "fluffingtons",
       "description": "A theme which aims to complete the dark theme for Discord.",
@@ -264,16 +270,16 @@
     {
       "name": "Discord Reborn",
       "author": "Omniscient",
-      "description": "",
-      "url": "https://raw.githubusercontent.com/0mniscient/Discord-Themes/master/Themes/Discord%20Reborn.theme.css",
-      "preview": ""
+      "description": "A cold, dark & winter like theme. Darkened Discord's UI a bit and implemented a nice dark background image.",
+      "url": "https://raw.githubusercontent.com/0mniscient/Discord-Themes/master/Themes/Discord%20Reborn%206.theme.css",
+      "preview": "https://camo.githubusercontent.com/6264abd7bf497fb2d4cf198a14d5e2428d5e3d47/68747470733a2f2f612e706f6d662e6361742f7377756f66732e6a7067"
     },
     {
       "name": "Quiet",
       "author": "Omniscient",
       "description": "Dark and Quiet. Easy on the eyes.",
-      "url": "https://raw.githubusercontent.com/0mniscient/Discord-Themes/master/Themes/Quiet.theme.css",
-      "preview": ""
+      "url": "https://raw.githubusercontent.com/0mniscient/Discord-Themes/master/Themes/Quiet_2.theme.css",
+      "preview": "https://camo.githubusercontent.com/ded41d1bc9de69a44ff31f1e1c035cd1095ed005/68747470733a2f2f692e696d6775722e636f6d2f70426e4e6144622e706e67"
     },
     {
       "name": "Discordify",
