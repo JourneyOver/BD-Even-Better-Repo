@@ -12,10 +12,28 @@
       "url": "https://raw.githubusercontent.com/noodlebox/betterdiscord-plugins/master/LineNumbers.plugin.js"
     },
     {
+      "name": "Silent Typing",
+      "author": "noodlebox",
+      "description": "Don't send typing notifications.",
+      "url": "https://raw.githubusercontent.com/noodlebox/betterdiscord-plugins/silent-typing/SilentTyping.plugin.js"
+    },
+    {
       "name": "Kawaii Emotes",
       "author": "noodlebox",
       "description": "Better emote parsing for BetterDiscord. Fixes bugs with emotes and tooltips.",
       "url": "https://raw.githubusercontent.com/noodlebox/betterdiscord-plugins/master/KawaiiEmotes.plugin.js"
+    },
+    {
+      "name": "Latency Display",
+      "author": "tony311",
+      "description": "Displays a live ping on the 'Connection Info' button. You can change which server is pinged, how often, and set thresholds at which to display the ping as yellow, orange, or red..",
+      "url": "https://raw.githubusercontent.com/tony311/betterdiscord-plugins/master/latency.plugin.js"
+    },
+    {
+      "name": "BetterCustomCSS",
+      "author": "kosshishub",
+      "description": "This plugin is for BD Theme developers. It lets you edit CSS live with your favorite text editor. Like Custom CSS but better.",
+      "url": "https://raw.githubusercontent.com/kosshishub/BetterCustomCSS-BD-plugin/master/BetterCustomCSS.plugin.js"
     },
     {
       "name": "BetterDiscord Beta Test",
