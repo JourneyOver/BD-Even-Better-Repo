@@ -75,7 +75,7 @@
       "name": "Renamer",
       "author": "Mitchell",
       "description": "Give anyone a nickname that only you can see simply by right clicking on them.",
-      "url": "https://megamit.github.io/repository/renamer/1.4.2/renamer.plugin.js"
+      "url": "https://megamit.github.io/repository/renamer/1.4.3/renamer.plugin.js"
     },
     {
       "name": "Copy Code",
@@ -100,6 +100,12 @@
       "author": "noodlebox",
       "description": "Automatically play gifs without having to hover",
       "url": "https://raw.githubusercontent.com/noodlebox/betterdiscord-plugins/master/AutoPlayGifs.plugin.js"
+    },
+    {
+      "name": "Static Avatars",
+      "author": "noodlebox",
+      "description": "Don't animate avatars in the chat area.",
+      "url": "https://raw.githubusercontent.com/noodlebox/betterdiscord-plugins/master/StaticAvatars.plugin.js"
     },
     {
       "name": "Custom role colour",
@@ -241,6 +247,13 @@
     }
   ],
   "themes": [{
+      "name": "Dark Cyan (Flat & Edgy)",
+      "author": "マギルゥーベルベット (magiruuvelvet)",
+      "description": "A dark cyan and flat & edgy theme for Discord",
+      "url": "https://raw.githubusercontent.com/magiruuvelvet/discord-theme-dark-cyan-flat-edgy/master/dark-cyan-flat-edgy.theme.css",
+      "preview": "https://raw.githubusercontent.com/magiruuvelvet/discord-theme-dark-cyan-flat-edgy/master/screenshots/main-ui.png"
+    },
+    {
       "name": "Kobato",
       "author": "Syaoran3",
       "description": "A Kobato theme made for EternalEnd",
@@ -645,9 +658,16 @@
     {
       "name": "Metro For Discord",
       "author": "Tako",
-      "description": "",
+      "description": "A custom theme for Discord (BetterDiscord) based on Microsoft's Modern Design Language - 'Metro'.",
       "url": "https://raw.githubusercontent.com/TakosThings/Metro-for-Discord/master/Metro_for_Discord.theme.css",
-      "preview": ""
+      "preview": "https://camo.githubusercontent.com/744def1eaa99a477231fd88f00fd274da5b594e9/687474703a2f2f692e696d6775722e636f6d2f5542716f716d4a2e706e67"
+    },
+    {
+      "name": "Metro For Discord - Speech Bubbles",
+      "author": "Tako",
+      "description": "Originally an idea from Uri's private theme, then it was nicked by every other theme dev. It simply shows chat inside speech bubbles.",
+      "url": "https://raw.githubusercontent.com/TakosThings/Metro-for-Discord/master/addons/Metro_for_Discord_Speechbubbles.theme.css",
+      "preview": "https://camo.githubusercontent.com/669aadcdae79f6d2e702c15dbefccc9c493ef24c/68747470733a2f2f692e696d6775722e636f6d2f587434625541492e706e67"
     },
     {
       "name": "Battlefield",
