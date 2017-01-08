@@ -1,5 +1,17 @@
 {
   "plugins": [{
+      "name": "High-Quality Avatars",
+      "author": "noodlebox",
+      "description": "Use crisp, high-resolution versions of avatars everywhere.",
+      "url": "https://raw.githubusercontent.com/noodlebox/betterdiscord-plugins/master/HDAvatars.plugin.js"
+    },
+    {
+      "name": "tempFix",
+      "author": "noodlebox / Mitchell",
+      "description": "Temporary workaround for missing localStorage.",
+      "url": "https://gist.githubusercontent.com/JourneyOver/990e768e800248bcec61068a8cda69e6/raw/tempfix.plugin.js"
+    },
+    {
       "name": "EvenBetterDiscord",
       "author": "DeathStrikeV",
       "description": "Loads FFZ emotes from alternate repository",
