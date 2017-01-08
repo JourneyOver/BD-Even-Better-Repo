@@ -246,6 +246,18 @@
       "url": "https://raw.githubusercontent.com/MorkHub/BetterDiscord-MorkMoji/master/morkMoji.plugin.js"
     },
     {
+      "name": "Spotify Integration",
+      "author": "Spencer Alan Watson",
+      "description": "Adds spotify play integration to Discord",
+      "url": "https://raw.githubusercontent.com/SpencerAlanWatson/better-discord-plugins/master/spotifyIntegration.plugin.js"
+    },
+    {
+      "name": "ToggleSections",
+      "author": "kettui",
+      "description": "Allows you to hide sections of the program (check settings to modify)",
+      "url": "https://raw.githubusercontent.com/kettui/BetterDiscord-extensions/master/plugins/ToggleSections/ToggleSections.plugin.js"
+    },
+    {
       "name": "Toggle All",
       "author": "Zerthox",
       "description": "Enable/disable all plugins or themes with a button",
@@ -270,6 +282,12 @@
       "author": "PlexPrograming",
       "description": "We took Discord, and materlized it!",
       "url": "https://raw.githubusercontent.com/PlexPrograming/BetterDiscord/master/Themes/Discord-Materlized.theme.css"
+    },
+    {
+      "name": "CleanCompact",
+      "author": "kettui",
+      "description": "A dark, compact layout for those who like to save some space",
+      "url": "https://raw.githubusercontent.com/kettui/BetterDiscord-extensions/master/themes/clean-compact/clean-compact.theme.css"
     },
     {
       "name": "Kobato",
