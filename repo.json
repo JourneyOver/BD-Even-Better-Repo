@@ -87,7 +87,7 @@
       "name": "Renamer",
       "author": "Mitchell",
       "description": "Give anyone a nickname that only you can see simply by right clicking on them.",
-      "url": "https://megamit.github.io/repository/renamer/1.4.3/renamer.plugin.js"
+      "url": "https://megamit.github.io/repository/renamer/1.5.0/renamer.plugin.js"
     },
     {
       "name": "Copy Code",
@@ -305,7 +305,7 @@
       "name": "Material Icons Theme",
       "author": "Zerthox",
       "description": "A theme for Discord changing icons",
-      "url": "https://raw.githubusercontent.com/Zerthox/Material-Icon-Theme/master/Material_Icon_Theme.theme.css"
+      "url": "https://raw.githubusercontent.com/Zerthox/Material-Icon-Theme/master/Material_Icon.theme.css"
     },
     {
       "name": "Wheat Transparency",
@@ -318,13 +318,6 @@
       "author": "BeardDesign",
       "description": "Add a titlebar to the top of your window :)",
       "url": "https://raw.githubusercontent.com/BeardDesign1/Titlebar/master/Titlebar.theme.css",
-      "preview": ""
-    },
-    {
-      "name": "Sleeping Beauty",
-      "author": "maple",
-      "description": "",
-      "url": "https://raw.githubusercontent.com/mrmaple240/Sleeping-Beauty/master/sleepingbeauty.theme.css",
       "preview": ""
     },
     {
@@ -374,13 +367,6 @@
       "author": "Satan/Mondanzo",
       "description": "",
       "url": "https://raw.githubusercontent.com/Mondanzo/GameThemes-BetterDiscord/master/dark_souls.theme.css",
-      "preview": ""
-    },
-    {
-      "name": "Ponyo",
-      "author": "uri",
-      "description": "",
-      "url": "https://raw.githubusercontent.com/cmpdc/BDTheme-Ponyo/master/Discord_Ponyo.theme.css",
       "preview": ""
     },
     {
@@ -517,10 +503,10 @@
       "preview": ""
     },
     {
-      "name": "MaterialCord",
-      "author": "BlenderMachine",
+      "name": "MinimaCord",
+      "author": "gustarrini",
       "description": "",
-      "url": "https://raw.githubusercontent.com/gustarrini/MaterialCord/master/materialcord.theme.css",
+      "url": "https://raw.githubusercontent.com/gustarrini/MinimaCord/master/minimacordloader.theme.css",
       "preview": ""
     },
     {
@@ -632,14 +618,14 @@
       "name": "Witcher 3",
       "author": "Jadeonking",
       "description": "",
-      "url": "https://raw.githubusercontent.com/jadeonking/Witcher-3-Theme-for-Discord/master/Witcher3.theme.css",
+      "url": "https://raw.githubusercontent.com/jadeonking/WitcherCord/master/Themes/Witcher3.theme.css",
       "preview": ""
     },
     {
       "name": "DuskCord",
       "author": "Jadeonking",
       "description": "",
-      "url": "https://raw.githubusercontent.com/jadeonking/Witcher-3-Theme-for-Discord/Non-Transparent/DuskCord.theme.css",
+      "url": "https://raw.githubusercontent.com/jadeonking/WitcherCord/master/Themes/DuskCord.theme.css",
       "preview": ""
     },
     {
