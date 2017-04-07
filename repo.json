@@ -47,6 +47,7 @@
       "description": "Use a greater-than symbol '>' at the beginning of a sentence to make text green.",
       "url": "https://raw.githubusercontent.com/Arashiryuu/crap/master/greenText.plugin.js"
     },
+    {
     "name": "Transparency Patcher v2.1",
     "author": "HoLLy",
     "description": "Patches your Discord client to allow transparent themes.\nTo use, go to the plugin's settings, press the button, restart Discord COMPLETELY by closing it and re-opening it, then reload by pressing CTRL+R to enable transparency. If transparency is not working, just reload again.\nNOTE: Not giving support, don't mention me for this. If something doesn't work, check the instructions again.",
